@@ -1,2 +1,2 @@
 # crypto-client
-CryptoQl with rest API built Apollo
+Client for ther CryptoQl API built with Apollo
